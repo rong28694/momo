@@ -9,7 +9,7 @@
           "interval": "10m",
           "timeout": "3s"
       },
-      "url": "http://192.168.10.41:3001/NFsfkHeICpSNO4mvWzJt/download/collection/singbox?target=sing-box",
+      "url": "https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fsub4.198466.xyz%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D1e02c20d597b4d2a80a0c5fdfc&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=false&scv=false&fdn=false&new_name=true",
       "exclude": "官网|剩余|流量|套餐|免费|订阅|全球直连|到期时间|GB|Expire Date|Traffic|ExpireDate",
       "download_detour": "🎯 全球直连",
       "update_interval": "12h"
